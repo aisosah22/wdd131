@@ -1,0 +1,84 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: #333;
+}
+
+/* Header */
+.header {
+    background-color: #c8102e;
+    color: white;
+    padding: 20px;
+    font-size: 24px;
+}
+
+/* Hero Image */
+.hero {
+    margin: 20px 0;
+}
+
+.hero-image {
+    width: 100%;
+    height: auto;
+}
+
+/* Data Section */
+.data {
+    background-color: white;
+    padding: 20px;
+}
+
+.data h2 {
+    margin: 10px 0;
+    font-size: 24px;
+}
+
+.data ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.data ul li {
+    margin: 10px 0;
+}
+
+/* Weather Section */
+.weather {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.weather h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.weather-icon {
+    width: 50px;
+    height: 50px;
+}
+
+.weather ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.weather ul li {
+    margin: 10px 0;
+}
+
+/* Footer Section */
+.footer {
+    background-color: #c8102e;
+    color: white;
+    padding: 20px;
+    font-size: 14px;
+}
+
+.footer p {
+    margin: 5px 0;
+}
